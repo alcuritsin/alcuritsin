@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-I'm curently learning in the Computer Academy STEP.
+## My skills
+
+- MS VBA (MS Excel)
+- C#, Avalonia UI
+- C++
+
+I have completed the courses in the Computer Academy STEP.
 
 <!--
 **alcuritsin/alcuritsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
